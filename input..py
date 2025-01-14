@@ -1,0 +1,6 @@
+input("hello"+" "+input("what is your name"))
+a=int(input("enter a number"))
+b=int(input("enter a number"))
+print("addition =",(a+b))
+print("addition of ",a,"and",b,"=",(a+b))
+print("addition of %d and %d = %d"%(a,b,(a+b)))
